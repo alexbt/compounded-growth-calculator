@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Net Worth Calculator</string>
+    <string name="app_name">Compounded Growth Calculator</string>
     <string name="log_name">compounded-growth.log</string>
     <string name="build_version_title">Build Version</string>
     <string name="cache_dir">compounded-growth</string>
